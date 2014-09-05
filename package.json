@@ -1,7 +1,6 @@
 {
   "name": "flak-cannon-picker",
-  "version": "0.0.0",
-  "description": "",
+  "version": "0.0.1",
   "main": "index.js",
   "scripts": {
     "test": "NODE_PATH=. NODE_ENV=test node_modules/gulp/bin/gulp.js test"
@@ -18,5 +17,13 @@
   "dependencies": {
     "chance": "0.6.1",
     "coffee-script": "1.8.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/claydotio/flak-cannon-picker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/claydotio/flak-cannon-picker/issues"
+  },
+  "homepage": "https://github.com/claydotio/flak-cannon-picker"
 }
